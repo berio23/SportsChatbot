@@ -749,7 +749,7 @@ class ActionGetScore(Action):
                                     score = match.get('score', 'Not available')
                                     date = match.get('date', 'Date unknown')
                                     
-                                    # Check if team won (for queries like "Did X win?")
+                                    # Check if team won 
                                     win_status = ""
                                     if "did" in tracker.latest_message.get('text', '').lower() and "win" in tracker.latest_message.get('text', '').lower():
                                         if sport == "Football":
@@ -1281,7 +1281,7 @@ class ActionGetStadium(Action):
                             for match in matchday_data[fixtures_key]:
                                 home_team = normalize_team_name(match.get("home_team", ""))
                                 
-                                # Improved matching logic
+                                # matching logic
                                 if normalized_team == home_team or normalized_team in home_team or home_team in normalized_team:
                                     venue = match.get(venue_type, "Unknown venue")
                                     location = match.get("city", match.get("state", ""))
