@@ -1,0 +1,72 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - bot_challenge
+  - set_sport
+  - ask_standings
+  - ask_fixture
+  - ask_score
+  - ask_goal_scorers
+  - ask_top_scorers
+  - ask_stadium
+
+entities:
+  - league
+  - matchday
+  - team
+  - stadium
+  - player
+  - sport
+
+slots:
+  sport:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: sport
+  league:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: league
+  matchday:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: matchday
+  team:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: team
+  stadium:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: stadium
+  player:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: player
+
+responses:
+  utter_greet:
+    - text: "Hello! I can help you with sports information. What would you like to know about football or basketball?"
+  
+  utter_goodbye:
+    - text: "Goodbye! Let me know if you need more sports information later."
+  
+  utter_iamabot:
+    - text: "I am a sports information bot, designed to help you with league standings, match results, and fixtures for football and basketball."
+
+actions:
+  - action_get_standings
+  - action_get_fixture
+  - action_get_score
+  - action_get_goal_scorers
+  - action_get_top_scorers
+  - action_get_stadium
+  - action_set_sport

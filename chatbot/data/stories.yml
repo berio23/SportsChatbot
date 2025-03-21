@@ -1,0 +1,205 @@
+version: "3.1"
+
+stories:
+- story: greet and set sport to football
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: set_sport
+    entities:
+      - sport: "Football"
+  - action: action_set_sport
+
+- story: greet and set sport to basketball
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: set_sport
+    entities:
+      - sport: "Basketball"
+  - action: action_set_sport
+
+- story: football - ask league standings
+  steps:
+  - intent: ask_standings
+    entities:
+      - league: "LaLiga"
+  - action: action_get_standings
+
+- story: basketball - ask league standings
+  steps:
+  - intent: ask_standings
+    entities:
+      - league: "NBA"
+  - action: action_get_standings
+
+- story: football - ask upcoming fixtures
+  steps:
+  - intent: ask_fixture
+    entities:
+      - matchday: "Matchday 28"
+      - league: "PremierLeague"
+  - action: action_get_fixture
+
+- story: basketball - ask upcoming games
+  steps:
+  - intent: ask_fixture
+    entities:
+      - matchday: "Week 21"
+  - action: action_get_fixture
+
+- story: football - ask team's next match
+  steps:
+  - intent: ask_fixture
+    entities:
+      - team: "Real Madrid"
+  - action: action_get_fixture
+
+- story: basketball - ask team's next game
+  steps:
+  - intent: ask_fixture
+    entities:
+      - team: "Lakers"
+  - action: action_get_fixture
+
+- story: football - ask about match score
+  steps:
+  - intent: ask_score
+    entities:
+      - team: "Real Madrid"
+      - team: "Real Betis"
+  - action: action_get_score
+
+- story: basketball - ask about game score
+  steps:
+  - intent: ask_score
+    entities:
+      - team: "Lakers"
+      - team: "Warriors"
+  - action: action_get_score
+
+- story: football - ask about team's result
+  steps:
+  - intent: ask_score
+    entities:
+      - team: "FC Barcelona"
+  - action: action_get_score
+
+- story: basketball - ask about team's result
+  steps:
+  - intent: ask_score
+    entities:
+      - team: "Celtics"
+  - action: action_get_score
+
+- story: football - ask about goal scorers
+  steps:
+  - intent: ask_goal_scorers
+    entities:
+      - team: "FC Barcelona"
+  - action: action_get_goal_scorers
+
+- story: football - ask about player scoring
+  steps:
+  - intent: ask_goal_scorers
+    entities:
+      - player: "Robert Lewandowski"
+  - action: action_get_goal_scorers
+
+- story: basketball - ask about top scorers
+  steps:
+  - intent: ask_top_scorers
+    entities:
+      - team: "Lakers"
+  - action: action_get_top_scorers
+
+- story: basketball - ask about player points
+  steps:
+  - intent: ask_top_scorers
+    entities:
+      - player: "LeBron James"
+  - action: action_get_top_scorers
+
+- story: football - ask about team's stadium
+  steps:
+  - intent: ask_stadium
+    entities:
+      - team: "Real Madrid"
+  - action: action_get_stadium
+
+- story: basketball - ask about team's arena
+  steps:
+  - intent: ask_stadium
+    entities:
+      - team: "Celtics"
+  - action: action_get_stadium
+
+- story: football - ask about matchday venues
+  steps:
+  - intent: ask_stadium
+    entities:
+      - matchday: "Matchday 28"
+      - league: "PremierLeague"
+  - action: action_get_stadium
+
+- story: basketball - ask about matchday venues
+  steps:
+  - intent: ask_stadium
+    entities:
+      - matchday: "Week 21"
+  - action: action_get_stadium
+
+- story: complete football conversation
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: set_sport
+    entities:
+      - sport: "Football"
+  - action: action_set_sport
+  - intent: ask_fixture
+    entities:
+      - matchday: "Matchday 27"
+      - league: "LaLiga"
+  - action: action_get_fixture
+  - intent: ask_score
+    entities:
+      - team: "FC Barcelona"
+  - action: action_get_score
+  - intent: ask_goal_scorers
+    entities:
+      - team: "FC Barcelona"
+  - action: action_get_goal_scorers
+  - intent: ask_stadium
+    entities:
+      - team: "FC Barcelona"
+  - action: action_get_stadium
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: complete basketball conversation
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: set_sport
+    entities:
+      - sport: "Basketball"
+  - action: action_set_sport
+  - intent: ask_fixture
+    entities:
+      - team: "Lakers"
+  - action: action_get_fixture
+  - intent: ask_score
+    entities:
+      - team: "Lakers"
+  - action: action_get_score
+  - intent: ask_top_scorers
+    entities:
+      - team: "Lakers"
+  - action: action_get_top_scorers
+  - intent: ask_stadium
+    entities:
+      - team: "Lakers"
+  - action: action_get_stadium
+  - intent: goodbye
+  - action: utter_goodbye

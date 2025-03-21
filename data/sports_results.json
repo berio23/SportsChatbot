@@ -1,0 +1,1016 @@
+{
+ "Football":{
+   "LaLiga":{
+      "standings":[
+         {
+            "position":1,
+            "team":"FC Barcelona",
+            "played":26,
+            "won":18,
+            "drawn":3,
+            "lost":5,
+            "goals_for":71,
+            "goals_against":25,
+            "goal_difference":46,
+            "points":57
+         },
+         {
+            "position":2,
+            "team":"Atlético Madrid",
+            "played":26,
+            "won":16,
+            "drawn":8,
+            "lost":2,
+            "goals_for":43,
+            "goals_against":16,
+            "goal_difference":27,
+            "points":56
+         },
+         {
+            "position":3,
+            "team":"Real Madrid",
+            "played":26,
+            "won":16,
+            "drawn":6,
+            "lost":4,
+            "goals_for":55,
+            "goals_against":25,
+            "goal_difference":30,
+            "points":54
+         },
+         {
+            "position":4,
+            "team":"Athletic Bilbao",
+            "played":26,
+            "won":13,
+            "drawn":9,
+            "lost":4,
+            "goals_for":44,
+            "goals_against":23,
+            "goal_difference":21,
+            "points":48
+         },
+         {
+            "position":5,
+            "team":"Villarreal CF",
+            "played":25,
+            "won":12,
+            "drawn":8,
+            "lost":5,
+            "goals_for":48,
+            "goals_against":35,
+            "goal_difference":13,
+            "points":44
+         }
+      ],
+      "Matchday 26":{
+         "fixtures":[
+            {
+               "date":"2025-02-28",
+               "time":"21:00",
+               "home_team":"Real Valladolid",
+               "stadium":"Estadio José Zorrilla",
+               "city":"Valladolid",
+               "country":"Spain",
+               "away_team":"UD Las Palmas",
+               "score":"1-1",
+               "goal_scorers":{
+                  "Real Valladolid":[
+                     "Sergio León"
+                  ],
+                  "UD Las Palmas":[
+                     "Jonathan Viera"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-01",
+               "time":"14:00",
+               "home_team":"Girona FC",
+               "stadium":"Estadi Montilivi",
+               "city":"Girona",
+               "country":"Spain",
+               "away_team":"RC Celta de Vigo",
+               "score":"2-2",
+               "goal_scorers":{
+                  "Girona FC":[
+                     "Cristhian Stuani",
+                     "Valery Fernández"
+                  ],
+                  "RC Celta de Vigo":[
+                     "Iago Aspas",
+                     "Gabri Veiga"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-01",
+               "time":"16:15",
+               "home_team":"Rayo Vallecano",
+               "stadium":"Campo de Fútbol de Vallecas",
+               "city":"Madrid",
+               "country":"Spain",
+               "away_team":"Sevilla FC",
+               "score":"1-1",
+               "goal_scorers":{
+                  "Rayo Vallecano":[
+                     "Álvaro García"
+                  ],
+                  "Sevilla FC":[
+                     "Youssef En-Nesyri"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-01",
+               "time":"18:30",
+               "home_team":"Real Betis",
+               "stadium":"Estadio Benito Villamarín",
+               "city":"Seville",
+               "country":"Spain",
+               "away_team":"Real Madrid",
+               "score":"2-1",
+               "goal_scorers":{
+                  "Real Betis":[
+                     "Johnny Cardoso",
+                     "Isco (penalty)"
+                  ],
+                  "Real Madrid":[
+                     "Brahim Díaz"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-01",
+               "time":"21:00",
+               "home_team":"Atlético Madrid",
+               "stadium":"Civitas Metropolitano",
+               "city":"Madrid",
+               "country":"Spain",
+               "away_team":"Athletic Club",
+               "score":"1-0",
+               "goal_scorers":{
+                  "Atlético Madrid":[
+                     "Álvaro Morata"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-02",
+               "time":"14:00",
+               "home_team":"CD Leganés",
+               "stadium":"Estadio Municipal de Butarque",
+               "city":"Leganés",
+               "country":"Spain",
+               "away_team":"Getafe CF",
+               "score":"1-0",
+               "goal_scorers":{
+                  "CD Leganés":[
+                     "José Arnáiz"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-02",
+               "time":"16:15",
+               "home_team":"FC Barcelona",
+               "stadium":"Spotify Camp Nou",
+               "city":"Barcelona",
+               "country":"Spain",
+               "away_team":"Real Sociedad",
+               "score":"4-0",
+               "goal_scorers":{
+                  "FC Barcelona":[
+                     "Gerard Martín",
+                     "Marc Casadó",
+                     "Ronald Araújo",
+                     "Robert Lewandowski"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-02",
+               "time":"18:30",
+               "home_team":"RCD Mallorca",
+               "stadium":"Visit Mallorca Estadi",
+               "city":"Palma",
+               "country":"Spain",
+               "away_team":"Deportivo Alavés",
+               "score":"1-1",
+               "goal_scorers":{
+                  "RCD Mallorca":[
+                     "Vedat Muriqi"
+                  ],
+                  "Deportivo Alavés":[
+                     "Joselu"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-02",
+               "time":"21:00",
+               "home_team":"CA Osasuna",
+               "stadium":"Estadio El Sadar",
+               "city":"Pamplona",
+               "country":"Spain",
+               "away_team":"Valencia CF",
+               "score":"3-3",
+               "goal_scorers":{
+                  "CA Osasuna":[
+                     "Ante Budimir (2)",
+                     "Rubén García"
+                  ],
+                  "Valencia CF":[
+                     "Hugo Duro",
+                     "Justin Kluivert",
+                     "Carlos Soler"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-03",
+               "time":"21:00",
+               "home_team":"Villarreal CF",
+               "stadium":"Estadio de la Cerámica",
+               "city":"Villarreal",
+               "country":"Spain",
+               "away_team":"RCD Espanyol",
+               "score":"Postponed",
+               "goal_scorers":{}
+            }
+         ]
+      },
+      "Matchday 27":{
+         "fixtures":[
+            {
+               "date":"2025-03-08",
+               "time":"14:00",
+               "home_team":"RC Celta de Vigo",
+               "stadium":"Abanca-Balaídos",
+               "city":"Vigo",
+               "country":"Spain",
+               "away_team":"CD Leganés"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"16:15",
+               "home_team":"Deportivo Alavés",
+               "stadium":"Mendizorrotza",
+               "city":"Vitoria-Gasteiz",
+               "country":"Spain",
+               "away_team":"Villarreal CF"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"18:30",
+               "home_team":"Real Madrid",
+               "stadium":"Santiago Bernabéu",
+               "city":"Madrid",
+               "country":"Spain",
+               "away_team":"Rayo Vallecano"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"21:00",
+               "home_team":"FC Barcelona",
+               "stadium":"Spotify Camp Nou",
+               "city":"Barcelona",
+               "country":"Spain",
+               "away_team":"CA Osasuna"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"14:00",
+               "home_team":"Athletic Club",
+               "stadium":"San Mamés",
+               "city":"Bilbao",
+               "country":"Spain",
+               "away_team":"RCD Mallorca"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"16:15",
+               "home_team":"Real Sociedad",
+               "stadium":"Reale Arena",
+               "city":"San Sebastián",
+               "country":"Spain",
+               "away_team":"Sevilla FC"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"18:30",
+               "home_team":"Valencia CF",
+               "stadium":"Mestalla",
+               "city":"Valencia",
+               "country":"Spain",
+               "away_team":"Real Valladolid"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"21:00",
+               "home_team":"RCD Espanyol",
+               "stadium":"RCDE Stadium",
+               "city":"Barcelona",
+               "country":"Spain",
+               "away_team":"Girona FC"
+            },
+            {
+               "date":"2025-03-10",
+               "time":"21:00",
+               "home_team":"Real Betis",
+               "stadium":"Estadio Benito Villamarín",
+               "city":"Seville",
+               "country":"Spain",
+               "away_team":"UD Las Palmas"
+            },
+            {
+               "date":"2025-03-11",
+               "time":"21:00",
+               "home_team":"Getafe CF",
+               "stadium":"Coliseum Alfonso Pérez",
+               "city":"Getafe",
+               "country":"Spain",
+               "away_team":"Atlético Madrid"
+            }
+         ]
+      }
+   },
+   "PremierLeague":{
+      "standings":[
+         {
+            "position":1,
+            "team":"Liverpool FC",
+            "played":27,
+            "won":20,
+            "drawn":7,
+            "lost":0,
+            "goals_for":66,
+            "goals_against":26,
+            "goal_difference":40,
+            "points":67
+         },
+         {
+            "position":2,
+            "team":"Arsenal FC",
+            "played":27,
+            "won":15,
+            "drawn":9,
+            "lost":3,
+            "goals_for":51,
+            "goals_against":23,
+            "goal_difference":28,
+            "points":54
+         },
+         {
+            "position":3,
+            "team":"Nottingham Forest",
+            "played":27,
+            "won":14,
+            "drawn":6,
+            "lost":7,
+            "goals_for":44,
+            "goals_against":33,
+            "goal_difference":11,
+            "points":48
+         },
+         {
+            "position":4,
+            "team":"Manchester City",
+            "played":27,
+            "won":14,
+            "drawn":5,
+            "lost":8,
+            "goals_for":53,
+            "goals_against":37,
+            "goal_difference":16,
+            "points":47
+         },
+         {
+            "position":5,
+            "team":"Chelsea FC",
+            "played":27,
+            "won":13,
+            "drawn":7,
+            "lost":7,
+            "goals_for":52,
+            "goals_against":36,
+            "goal_difference":16,
+            "points":46
+         }
+      ],
+      "Matchday 27":{
+         "fixtures":[
+            {
+               "date":"2025-02-25",
+               "home_team":"Brighton & Hove Albion",
+               "stadium":"American Express Community Stadium",
+               "city":"Brighton",
+               "country":"England",
+               "away_team":"AFC Bournemouth",
+               "score":"2-1",
+               "goal_scorers":{
+                  "Brighton & Hove Albion":[
+                     "Evan Ferguson",
+                     "Kaoru Mitoma"
+                  ],
+                  "AFC Bournemouth":[
+                     "Dominic Solanke"
+                  ]
+               }
+            },
+            {
+               "date":"2025-02-25",
+               "home_team":"Crystal Palace",
+               "stadium":"Selhurst Park",
+               "city":"London",
+               "country":"England",
+               "away_team":"Aston Villa",
+               "score":"4-1",
+               "goal_scorers":{
+                  "Crystal Palace":[
+                     "Odsonne Édouard",
+                     "Jean-Philippe Mateta (2)",
+                     "Eberechi Eze"
+                  ],
+                  "Aston Villa":[
+                     "Ollie Watkins"
+                  ]
+               }
+            },
+            {
+               "date":"2025-02-25",
+               "home_team":"Wolverhampton Wanderers",
+               "stadium":"Molineux Stadium",
+               "city":"Wolverhampton",
+               "country":"England",
+               "away_team":"Fulham",
+               "score":"1-2",
+               "goal_scorers":{
+                  "Wolverhampton Wanderers":[
+                     "Matheus Cunha"
+                  ],
+                  "Fulham":[
+                     "Aleksandar Mitrović",
+                     "Andreas Pereira"
+                  ]
+               }
+            },
+            {
+               "date":"2025-02-25",
+               "home_team":"Chelsea",
+               "stadium":"Stamford Bridge",
+               "city":"London",
+               "country":"England",
+               "away_team":"Southampton",
+               "score":"4-0",
+               "goal_scorers":{
+                  "Chelsea":[
+                     "Raheem Sterling (2)",
+                     "Christopher Nkunku",
+                     "Enzo Fernández"
+                  ]
+               }
+            },
+            {
+               "date":"2025-02-26",
+               "home_team":"Brentford",
+               "stadium":"Gtech Community Stadium",
+               "city":"London",
+               "country":"England",
+               "away_team":"Everton",
+               "score":"1-1",
+               "goal_scorers":{
+                  "Brentford":[
+                     "Ivan Toney"
+                  ],
+                  "Everton":[
+                     "Dominic Calvert-Lewin"
+                  ]
+               }
+            },
+            {
+               "date":"2025-02-26",
+               "home_team":"Nottingham Forest",
+               "stadium":"City Ground",
+               "city":"Nottingham",
+               "country":"England",
+               "away_team":"Arsenal",
+               "score":"0-0",
+               "goal_scorers":{}
+            },
+            {
+               "date":"2025-02-26",
+               "home_team":"Tottenham Hotspur",
+               "stadium":"Tottenham Hotspur Stadium",
+               "city":"London",
+               "country":"England",
+               "away_team":"Manchester City",
+               "score":"0-1",
+               "goal_scorers":{
+                  "Manchester City":[
+                     "Erling Haaland"
+                  ]
+               }
+            },
+            {
+               "date":"2025-02-26",
+               "home_team":"Manchester United",
+               "stadium":"Old Trafford",
+               "city":"Manchester",
+               "country":"England",
+               "away_team":"Ipswich Town",
+               "score":"3-2",
+               "goal_scorers":{
+                  "Manchester United":[
+                     "Marcus Rashford",
+                     "Bruno Fernandes",
+                     "Mason Mount"
+                  ],
+                  "Ipswich Town":[
+                     "Conor Chaplin",
+                     "Nathan Broadhead"
+                  ]
+               }
+            },
+            {
+               "date":"2025-02-26",
+               "home_team":"Liverpool",
+               "stadium":"Anfield",
+               "city":"Liverpool",
+               "country":"England",
+               "away_team":"Newcastle United",
+               "score":"2-0",
+               "goal_scorers":{
+                  "Liverpool":[
+                     "Mohamed Salah",
+                     "Diogo Jota"
+                  ]
+               }
+            },
+            {
+               "date":"2025-02-27",
+               "home_team":"West Ham United",
+               "stadium":"London Stadium",
+               "city":"London",
+               "country":"England",
+               "away_team":"Leicester City",
+               "score":"2-0",
+               "goal_scorers":{
+                  "West Ham United":[
+                     "Jarrod Bowen",
+                     "Lucas Paquetá"
+                  ]
+               }
+            }
+         ]
+      },
+	    "Matchday 28":{
+         "fixtures":[
+            {
+               "date":"2025-03-08",
+               "time":"12:30 GMT",
+               "home_team":"Nottingham Forest",
+               "stadium":"City Ground",
+               "city":"Nottingham",
+               "country":"England",
+               "away_team":"Manchester City"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"15:00 GMT",
+               "home_team":"Brighton & Hove Albion",
+               "stadium":"American Express Community Stadium",
+               "city":"Brighton",
+               "country":"England",
+               "away_team":"Fulham"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"15:00 GMT",
+               "home_team":"Crystal Palace",
+               "stadium":"Selhurst Park",
+               "city":"London",
+               "country":"England",
+               "away_team":"Ipswich Town"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"15:00 GMT",
+               "home_team":"Liverpool",
+               "stadium":"Anfield",
+               "city":"Liverpool",
+               "country":"England",
+               "away_team":"Southampton"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"17:30 GMT",
+               "home_team":"Brentford",
+               "stadium":"Gtech Community Stadium",
+               "city":"London",
+               "country":"England",
+               "away_team":"Aston Villa"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"20:00 GMT",
+               "home_team":"Wolverhampton Wanderers",
+               "stadium":"Molineux Stadium",
+               "city":"Wolverhampton",
+               "country":"England",
+               "away_team":"Everton"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"14:00 GMT",
+               "home_team":"Chelsea",
+               "stadium":"Stamford Bridge",
+               "city":"London",
+               "country":"England",
+               "away_team":"Leicester City"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"14:00 GMT",
+               "home_team":"Tottenham Hotspur",
+               "stadium":"Tottenham Hotspur Stadium",
+               "city":"London",
+               "country":"England",
+               "away_team":"AFC Bournemouth"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"16:30 GMT",
+               "home_team":"Manchester United",
+               "stadium":"Old Trafford",
+               "city":"Manchester",
+               "country":"England",
+               "away_team":"Arsenal"
+            },
+            {
+               "date":"2025-03-10",
+               "time":"20:00 GMT",
+               "home_team":"West Ham United",
+               "stadium":"London Stadium",
+               "city":"London",
+               "country":"England",
+               "away_team":"Newcastle United"
+            }
+         ]
+      }
+   }
+ },
+ "Basketball":{
+  "NBA": {
+    "standings": [
+      {
+        "position": 1,
+        "team": "Boston Celtics",
+        "played": 65,
+        "won": 52,
+        "lost": 13,
+        "points_for": 7540,
+        "points_against": 6986,
+        "point_difference": 554,
+        "win_percentage": 0.800
+      },
+      {
+        "position": 2,
+        "team": "Denver Nuggets",
+        "played": 65,
+        "won": 49,
+        "lost": 16,
+        "points_for": 7335,
+        "points_against": 6955,
+        "point_difference": 380,
+        "win_percentage": 0.754
+      },
+      {
+        "position": 3,
+        "team": "Milwaukee Bucks",
+        "played": 65,
+        "won": 46,
+        "lost": 19,
+        "points_for": 7285,
+        "points_against": 6945,
+        "point_difference": 340,
+        "win_percentage": 0.708
+      },
+      {
+        "position": 4,
+        "team": "Minnesota Timberwolves",
+        "played": 65,
+        "won": 44,
+        "lost": 21,
+        "points_for": 6986,
+        "points_against": 6650,
+        "point_difference": 336,
+        "win_percentage": 0.677
+      },
+      {
+        "position": 5,
+        "team": "Oklahoma City Thunder",
+        "played": 65,
+        "won": 42,
+        "lost": 23,
+        "points_for": 7125,
+        "points_against": 6780,
+        "point_difference": 345,
+        "win_percentage": 0.646
+      }
+    ],
+    "Week 20": {
+      "games": [
+        {
+          "date": "2025-03-09",
+          "home_team": "Los Angeles Lakers",
+          "arena": "Crypto.com Arena",
+          "city": "Los Angeles",
+          "state": "California",
+          "away_team": "Golden State Warriors",
+          "score": "118-112",
+          "quarters": ["28-26", "32-29", "30-25", "28-32"],
+          "top_scorers": {
+            "Los Angeles Lakers": [
+              {"name": "LeBron James", "points": 32},
+              {"name": "Anthony Davis", "points": 28},
+              {"name": "D'Angelo Russell", "points": 17}
+            ],
+            "Golden State Warriors": [
+              {"name": "Stephen Curry", "points": 38},
+              {"name": "Draymond Green", "points": 15},
+              {"name": "Klay Thompson", "points": 14}
+            ]
+          }
+        },
+        {
+          "date": "2025-03-09",
+          "home_team": "Boston Celtics",
+          "arena": "TD Garden",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "away_team": "Phoenix Suns",
+          "score": "121-106",
+          "quarters": ["30-24", "35-28", "27-31", "29-23"],
+          "top_scorers": {
+            "Boston Celtics": [
+              {"name": "Jayson Tatum", "points": 36},
+              {"name": "Jaylen Brown", "points": 24},
+              {"name": "Jrue Holiday", "points": 18}
+            ],
+            "Phoenix Suns": [
+              {"name": "Kevin Durant", "points": 28},
+              {"name": "Devin Booker", "points": 25},
+              {"name": "Bradley Beal", "points": 19}
+            ]
+          }
+        },
+        {
+          "date": "2025-03-10",
+          "home_team": "Milwaukee Bucks",
+          "arena": "Fiserv Forum",
+          "city": "Milwaukee",
+          "state": "Wisconsin",
+          "away_team": "Miami Heat",
+          "score": "112-98",
+          "quarters": ["27-22", "32-25", "28-30", "25-21"],
+          "top_scorers": {
+            "Milwaukee Bucks": [
+              {"name": "Giannis Antetokounmpo", "points": 32},
+              {"name": "Damian Lillard", "points": 26},
+              {"name": "Brook Lopez", "points": 16}
+            ],
+            "Miami Heat": [
+              {"name": "Jimmy Butler", "points": 24},
+              {"name": "Tyler Herro", "points": 22},
+              {"name": "Bam Adebayo", "points": 18}
+            ]
+          }
+        },
+        {
+          "date": "2025-03-10",
+          "home_team": "Denver Nuggets",
+          "arena": "Ball Arena",
+          "city": "Denver",
+          "state": "Colorado",
+          "away_team": "Oklahoma City Thunder",
+          "score": "126-119",
+          "quarters": ["30-32", "35-28", "29-25", "32-34"],
+          "top_scorers": {
+            "Denver Nuggets": [
+              {"name": "Nikola Jokić", "points": 33},
+              {"name": "Jamal Murray", "points": 27},
+              {"name": "Michael Porter Jr.", "points": 21}
+            ],
+            "Oklahoma City Thunder": [
+              {"name": "Shai Gilgeous-Alexander", "points": 35},
+              {"name": "Chet Holmgren", "points": 23},
+              {"name": "Jalen Williams", "points": 18}
+            ]
+          }
+        },
+        {
+          "date": "2025-03-11",
+          "home_team": "New York Knicks",
+          "arena": "Madison Square Garden",
+          "city": "New York",
+          "state": "New York",
+          "away_team": "Chicago Bulls",
+          "score": "115-109",
+          "quarters": ["28-26", "32-27", "27-31", "28-25"],
+          "top_scorers": {
+            "New York Knicks": [
+              {"name": "Jalen Brunson", "points": 31},
+              {"name": "Julius Randle", "points": 24},
+              {"name": "OG Anunoby", "points": 19}
+            ],
+            "Chicago Bulls": [
+              {"name": "Zach LaVine", "points": 27},
+              {"name": "Coby White", "points": 22},
+              {"name": "Nikola Vucevic", "points": 18}
+            ]
+          }
+        }
+      ]
+    },
+    "Week 21": {
+      "games": [
+        {
+          "date": "2025-03-14",
+          "time": "19:00 ET",
+          "home_team": "Philadelphia 76ers",
+          "arena": "Wells Fargo Center",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "away_team": "Brooklyn Nets"
+        },
+        {
+          "date": "2025-03-14",
+          "time": "20:00 ET",
+          "home_team": "Cleveland Cavaliers",
+          "arena": "Rocket Mortgage FieldHouse",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "away_team": "Toronto Raptors"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "15:30 ET",
+          "home_team": "Memphis Grizzlies",
+          "arena": "FedExForum",
+          "city": "Memphis",
+          "state": "Tennessee",
+          "away_team": "Dallas Mavericks"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "18:00 ET",
+          "home_team": "Boston Celtics",
+          "arena": "TD Garden",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "away_team": "Los Angeles Lakers"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "20:30 ET",
+          "home_team": "Golden State Warriors",
+          "arena": "Chase Center",
+          "city": "San Francisco",
+          "state": "California",
+          "away_team": "Milwaukee Bucks"
+        }
+      ]
+    }
+  },
+  "EuroLeague": {
+    "standings": [
+      {
+        "position": 1,
+        "team": "Real Madrid",
+        "played": 28,
+        "won": 23,
+        "lost": 5,
+        "points_for": 2436,
+        "points_against": 2175,
+        "point_difference": 261,
+        "win_percentage": 0.821
+      },
+      {
+        "position": 2,
+        "team": "Panathinaikos AKTOR",
+        "played": 28,
+        "won": 21,
+        "lost": 7,
+        "points_for": 2335,
+        "points_against": 2198,
+        "point_difference": 137,
+        "win_percentage": 0.750
+      },
+      {
+        "position": 3,
+        "team": "AS Monaco",
+        "played": 28,
+        "won": 19,
+        "lost": 9,
+        "points_for": 2345,
+        "points_against": 2236,
+        "point_difference": 109,
+        "win_percentage": 0.679
+      },
+      {
+        "position": 4,
+        "team": "FC Barcelona",
+        "played": 28,
+        "won": 18,
+        "lost": 10,
+        "points_for": 2286,
+        "points_against": 2214,
+        "point_difference": 72,
+        "win_percentage": 0.643
+      },
+      {
+        "position": 5,
+        "team": "Fenerbahçe Beko",
+        "played": 28,
+        "won": 17,
+        "lost": 11,
+        "points_for": 2267,
+        "points_against": 2192,
+        "point_difference": 75,
+        "win_percentage": 0.607
+      }
+    ],
+    "Round 29": {
+      "games": [
+        {
+          "date": "2025-03-08",
+          "home_team": "Real Madrid",
+          "arena": "WiZink Center",
+          "city": "Madrid",
+          "country": "Spain",
+          "away_team": "Olympiacos Piraeus",
+          "score": "87-79",
+          "quarters": ["24-19", "20-18", "23-22", "20-20"],
+          "top_scorers": {
+            "Real Madrid": [
+              {"name": "Facundo Campazzo", "points": 18},
+              {"name": "Walter Tavares", "points": 16},
+              {"name": "Mario Hezonja", "points": 15}
+            ],
+            "Olympiacos Piraeus": [
+              {"name": "Sasha Vezenkov", "points": 19},
+              {"name": "Kostas Papanikolaou", "points": 14},
+              {"name": "Nikola Milutinov", "points": 12}
+            ]
+          }
+        },
+        {
+          "date": "2025-03-08",
+          "home_team": "FC Barcelona",
+          "arena": "Palau Blaugrana",
+          "city": "Barcelona",
+          "country": "Spain",
+          "away_team": "LDLC ASVEL Villeurbanne",
+          "score": "92-78",
+          "quarters": ["22-18", "26-19", "22-25", "22-16"],
+          "top_scorers": {
+            "FC Barcelona": [
+              {"name": "Nicolás Laprovittola", "points": 21},
+              {"name": "Jan Vesely", "points": 17},
+              {"name": "Jabari Parker", "points": 15}
+            ],
+            "LDLC ASVEL Villeurbanne": [
+              {"name": "Nando de Colo", "points": 18},
+              {"name": "Joffrey Lauvergne", "points": 15},
+              {"name": "David Lighty", "points": 13}
+            ]
+          }
+        }
+      ]
+    },
+    "Round 30": {
+      "games": [
+        {
+          "date": "2025-03-14",
+          "time": "20:45 CET",
+          "home_team": "Fenerbahçe Beko",
+          "arena": "Ülker Sports Arena",
+          "city": "Istanbul",
+          "country": "Turkey",
+          "away_team": "AS Monaco"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "19:00 CET",
+          "home_team": "ALBA Berlin",
+          "arena": "Mercedes-Benz Arena",
+          "city": "Berlin",
+          "country": "Germany",
+          "away_team": "Real Madrid"
+        }
+      ]
+    }
+  }
+}
+}

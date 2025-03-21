@@ -1,0 +1,856 @@
+{
+   "LaLiga":{
+      "standings":[
+         {
+            "position":1,
+            "team":"FC Barcelona",
+            "played":26,
+            "won":18,
+            "drawn":3,
+            "lost":5,
+            "goals_for":71,
+            "goals_against":25,
+            "goal_difference":46,
+            "points":57
+         },
+         {
+            "position":2,
+            "team":"Atlético Madrid",
+            "played":26,
+            "won":16,
+            "drawn":8,
+            "lost":2,
+            "goals_for":43,
+            "goals_against":16,
+            "goal_difference":27,
+            "points":56
+         },
+         {
+            "position":3,
+            "team":"Real Madrid",
+            "played":26,
+            "won":16,
+            "drawn":6,
+            "lost":4,
+            "goals_for":55,
+            "goals_against":25,
+            "goal_difference":30,
+            "points":54
+         },
+         {
+            "position":4,
+            "team":"Athletic Bilbao",
+            "played":26,
+            "won":13,
+            "drawn":9,
+            "lost":4,
+            "goals_for":44,
+            "goals_against":23,
+            "goal_difference":21,
+            "points":48
+         },
+         {
+            "position":5,
+            "team":"Villarreal CF",
+            "played":25,
+            "won":12,
+            "drawn":8,
+            "lost":5,
+            "goals_for":48,
+            "goals_against":35,
+            "goal_difference":13,
+            "points":44
+         },
+         {
+            "position":6,
+            "team":"Real Betis",
+            "played":26,
+            "won":10,
+            "drawn":8,
+            "lost":8,
+            "goals_for":34,
+            "goals_against":33,
+            "goal_difference":1,
+            "points":38
+         },
+         {
+            "position":7,
+            "team":"Rayo Vallecano",
+            "played":26,
+            "won":9,
+            "drawn":9,
+            "lost":8,
+            "goals_for":28,
+            "goals_against":27,
+            "goal_difference":1,
+            "points":36
+         },
+         {
+            "position":8,
+            "team":"RCD Mallorca",
+            "played":26,
+            "won":10,
+            "drawn":6,
+            "lost":10,
+            "goals_for":25,
+            "goals_against":30,
+            "goal_difference":-5,
+            "points":36
+         },
+         {
+            "position":9,
+            "team":"Sevilla FC",
+            "played":26,
+            "won":10,
+            "drawn":6,
+            "lost":10,
+            "goals_for":25,
+            "goals_against":32,
+            "goal_difference":-7,
+            "points":36
+         },
+         {
+            "position":10,
+            "team":"Valencia CF",
+            "played":26,
+            "won":10,
+            "drawn":4,
+            "lost":12,
+            "goals_for":23,
+            "goals_against":27,
+            "goal_difference":-4,
+            "points":34
+         },
+         {
+            "position":11,
+            "team":"RCD Espanyol",
+            "played":26,
+            "won":9,
+            "drawn":6,
+            "lost":11,
+            "goals_for":38,
+            "goals_against":40,
+            "goal_difference":-2,
+            "points":33
+         },
+         {
+            "position":12,
+            "team":"CA Osasuna",
+            "played":26,
+            "won":7,
+            "drawn":12,
+            "lost":7,
+            "goals_for":32,
+            "goals_against":37,
+            "goal_difference":-5,
+            "points":33
+         },
+         {
+            "position":13,
+            "team":"Real Sociedad",
+            "played":26,
+            "won":8,
+            "drawn":9,
+            "lost":9,
+            "goals_for":31,
+            "goals_against":36,
+            "goal_difference":-5,
+            "points":33
+         },
+         {
+            "position":14,
+            "team":"Girona FC",
+            "played":26,
+            "won":9,
+            "drawn":5,
+            "lost":12,
+            "goals_for":34,
+            "goals_against":39,
+            "goal_difference":-5,
+            "points":32
+         },
+         {
+            "position":15,
+            "team":"Getafe CF",
+            "played":25,
+            "won":7,
+            "drawn":6,
+            "lost":12,
+            "goals_for":24,
+            "goals_against":36,
+            "goal_difference":-12,
+            "points":27
+         },
+         {
+            "position":16,
+            "team":"UD Las Palmas",
+            "played":26,
+            "won":6,
+            "drawn":9,
+            "lost":11,
+            "goals_for":23,
+            "goals_against":38,
+            "goal_difference":-15,
+            "points":27
+         },
+         {
+            "position":17,
+            "team":"RC Celta de Vigo",
+            "played":26,
+            "won":6,
+            "drawn":6,
+            "lost":14,
+            "goals_for":30,
+            "goals_against":44,
+            "goal_difference":-14,
+            "points":24
+         },
+         {
+            "position":18,
+            "team":"CD Leganés",
+            "played":26,
+            "won":5,
+            "drawn":9,
+            "lost":12,
+            "goals_for":28,
+            "goals_against":44,
+            "goal_difference":-16,
+            "points":24
+         }
+      ]"Matchday 26":{
+         "fixtures":[
+            {
+               "date":"2025-02-28",
+               "time":"21:00",
+               "home_team":"Real Valladolid",
+               "away_team":"UD Las Palmas",
+               "score":"1-1",
+               "goal_scorers":{
+                  "Real Valladolid":[
+                     "Sergio León"
+                  ],
+                  "UD Las Palmas":[
+                     "Jonathan Viera"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-01",
+               "time":"14:00",
+               "home_team":"Girona FC",
+               "away_team":"RC Celta de Vigo",
+               "score":"2-2",
+               "goal_scorers":{
+                  "Girona FC":[
+                     "Cristhian Stuani",
+                     "Valery Fernández"
+                  ],
+                  "RC Celta de Vigo":[
+                     "Iago Aspas",
+                     "Gabri Veiga"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-01",
+               "time":"16:15",
+               "home_team":"Rayo Vallecano",
+               "away_team":"Sevilla FC",
+               "score":"1-1",
+               "goal_scorers":{
+                  "Rayo Vallecano":[
+                     "Álvaro García"
+                  ],
+                  "Sevilla FC":[
+                     "Youssef En-Nesyri"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-01",
+               "time":"18:30",
+               "home_team":"Real Betis",
+               "away_team":"Real Madrid",
+               "score":"2-1",
+               "goal_scorers":{
+                  "Real Betis":[
+                     "Johnny Cardoso",
+                     "Isco (penalty)"
+                  ],
+                  "Real Madrid":[
+                     "Brahim Díaz"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-01",
+               "time":"21:00",
+               "home_team":"Atlético Madrid",
+               "away_team":"Athletic Club",
+               "score":"1-0",
+               "goal_scorers":{
+                  "Atlético Madrid":[
+                     "Álvaro Morata"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-02",
+               "time":"14:00",
+               "home_team":"CD Leganés",
+               "away_team":"Getafe CF",
+               "score":"1-0",
+               "goal_scorers":{
+                  "CD Leganés":[
+                     "José Arnáiz"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-02",
+               "time":"16:15",
+               "home_team":"FC Barcelona",
+               "away_team":"Real Sociedad",
+               "score":"4-0",
+               "goal_scorers":{
+                  "FC Barcelona":[
+                     "Gerard Martín",
+                     "Marc Casadó",
+                     "Ronald Araújo",
+                     "Robert Lewandowski"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-02",
+               "time":"18:30",
+               "home_team":"RCD Mallorca",
+               "away_team":"Deportivo Alavés",
+               "score":"1-1",
+               "goal_scorers":{
+                  "RCD Mallorca":[
+                     "Vedat Muriqi"
+                  ],
+                  "Deportivo Alavés":[
+                     "Joselu"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-02",
+               "time":"21:00",
+               "home_team":"CA Osasuna",
+               "away_team":"Valencia CF",
+               "score":"3-3",
+               "goal_scorers":{
+                  "CA Osasuna":[
+                     "Ante Budimir (2)",
+                     "Rubén García"
+                  ],
+                  "Valencia CF":[
+                     "Hugo Duro",
+                     "Justin Kluivert",
+                     "Carlos Soler"
+                  ]
+               }
+            },
+            {
+               "date":"2025-03-03",
+               "time":"21:00",
+               "home_team":"Villarreal CF",
+               "away_team":"RCD Espanyol",
+               "score":"Postponed",
+               "goal_scorers":{
+                  
+               }
+            }
+         ]
+      },
+      ,
+      "Matchday 27":{
+         "fixtures":[
+            {
+               "date":"2025-03-08",
+               "time":"14:00",
+               "home_team":"RC Celta de Vigo",
+               "away_team":"CD Leganés"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"16:15",
+               "home_team":"Deportivo Alavés",
+               "away_team":"Villarreal CF"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"18:30",
+               "home_team":"Real Madrid",
+               "away_team":"Rayo Vallecano"
+            },
+            {
+               "date":"2025-03-08",
+               "time":"21:00",
+               "home_team":"FC Barcelona",
+               "away_team":"CA Osasuna"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"14:00",
+               "home_team":"Athletic Club",
+               "away_team":"RCD Mallorca"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"16:15",
+               "home_team":"Real Sociedad",
+               "away_team":"Sevilla FC"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"18:30",
+               "home_team":"Valencia CF",
+               "away_team":"Real Valladolid"
+            },
+            {
+               "date":"2025-03-09",
+               "time":"21:00",
+               "home_team":"RCD Espanyol",
+               "away_team":"Girona FC"
+            },
+            {
+               "date":"2025-03-10",
+               "time":"21:00",
+               "home_team":"Real Betis",
+               "away_team":"UD Las Palmas"
+            },
+            {
+               "date":"2025-03-11",
+               "time":"21:00",
+               "home_team":"Getafe CF",
+               "away_team":"Atlético Madrid"
+            }
+         ]
+      }
+   }{
+      "PremierLeague":{
+         "standings":[
+            {
+               "position":1,
+               "team":"Liverpool FC",
+               "played":27,
+               "won":20,
+               "drawn":7,
+               "lost":0,
+               "goals_for":66,
+               "goals_against":26,
+               "goal_difference":40,
+               "points":67
+            },
+            {
+               "position":2,
+               "team":"Arsenal FC",
+               "played":27,
+               "won":15,
+               "drawn":9,
+               "lost":3,
+               "goals_for":51,
+               "goals_against":23,
+               "goal_difference":28,
+               "points":54
+            },
+            {
+               "position":3,
+               "team":"Nottingham Forest",
+               "played":27,
+               "won":14,
+               "drawn":6,
+               "lost":7,
+               "goals_for":44,
+               "goals_against":33,
+               "goal_difference":11,
+               "points":48
+            },
+            {
+               "position":4,
+               "team":"Manchester City",
+               "played":27,
+               "won":14,
+               "drawn":5,
+               "lost":8,
+               "goals_for":53,
+               "goals_against":37,
+               "goal_difference":16,
+               "points":47
+            },
+            {
+               "position":5,
+               "team":"Chelsea FC",
+               "played":27,
+               "won":13,
+               "drawn":7,
+               "lost":7,
+               "goals_for":52,
+               "goals_against":36,
+               "goal_difference":16,
+               "points":46
+            },
+            {
+               "position":6,
+               "team":"Newcastle United",
+               "played":27,
+               "won":13,
+               "drawn":5,
+               "lost":9,
+               "goals_for":46,
+               "goals_against":38,
+               "goal_difference":8,
+               "points":44
+            },
+            {
+               "position":7,
+               "team":"AFC Bournemouth",
+               "played":27,
+               "won":12,
+               "drawn":7,
+               "lost":8,
+               "goals_for":45,
+               "goals_against":32,
+               "goal_difference":13,
+               "points":43
+            },
+            {
+               "position":8,
+               "team":"Brighton & Hove Albion",
+               "played":27,
+               "won":11,
+               "drawn":10,
+               "lost":6,
+               "goals_for":44,
+               "goals_against":39,
+               "goal_difference":5,
+               "points":43
+            },
+            {
+               "position":9,
+               "team":"Fulham FC",
+               "played":27,
+               "won":11,
+               "drawn":9,
+               "lost":7,
+               "goals_for":40,
+               "goals_against":36,
+               "goal_difference":4,
+               "points":42
+            },
+            {
+               "position":10,
+               "team":"Aston Villa",
+               "played":28,
+               "won":11,
+               "drawn":9,
+               "lost":8,
+               "goals_for":40,
+               "goals_against":45,
+               "goal_difference":-5,
+               "points":42
+            },
+            {
+               "position":11,
+               "team":"Brentford FC",
+               "played":27,
+               "won":11,
+               "drawn":5,
+               "lost":11,
+               "goals_for":48,
+               "goals_against":43,
+               "goal_difference":5,
+               "points":38
+            },
+            {
+               "position":12,
+               "team":"Crystal Palace",
+               "played":27,
+               "won":9,
+               "drawn":9,
+               "lost":9,
+               "goals_for":35,
+               "goals_against":33,
+               "goal_difference":2,
+               "points":36
+            },
+            {
+               "position":13,
+               "team":"Tottenham Hotspur",
+               "played":27,
+               "won":10,
+               "drawn":3,
+               "lost":14,
+               "goals_for":53,
+               "goals_against":39,
+               "goal_difference":14,
+               "points":33
+            },
+            {
+               "position":14,
+               "team":"Manchester United",
+               "played":27,
+               "won":9,
+               "drawn":6,
+               "lost":12,
+               "goals_for":33,
+               "goals_against":39,
+               "goal_difference":-6,
+               "points":33
+            },
+            {
+               "position":15,
+               "team":"West Ham United",
+               "played":27,
+               "won":9,
+               "drawn":6,
+               "lost":12,
+               "goals_for":32,
+               "goals_against":47,
+               "goal_difference":-15,
+               "points":33
+            },
+            {
+               "position":16,
+               "team":"Wolverhampton Wanderers",
+               "played":27,
+               "won":7,
+               "drawn":11,
+               "lost":9,
+               "goals_for":30,
+               "goals_against":34,
+               "goal_difference":-4,
+               "points":32
+            },
+            {
+               "position":17,
+               "team":"Everton FC",
+               "played":27,
+               "won":6,
+               "drawn":4,
+               "lost":17,
+               "goals_for":37,
+               "goals_against":56,
+               "goal_difference":-19,
+               "points":22
+            },
+            {
+               "position":18,
+               "team":"Leicester City",
+               "played":27,
+               "won":3,
+               "drawn":8,
+               "lost":16,
+               "goals_for":26,
+               "goals_against":57,
+               "goal_difference":-31,
+               "points":17
+            }
+         ]"Matchday 27":{
+            "fixtures":[
+               {
+                  "date":"2025-02-25",
+                  "home_team":"Brighton & Hove Albion",
+                  "away_team":"AFC Bournemouth",
+                  "score":"2-1",
+                  "goal_scorers":{
+                     "Brighton & Hove Albion":[
+                        "Evan Ferguson",
+                        "Kaoru Mitoma"
+                     ],
+                     "AFC Bournemouth":[
+                        "Dominic Solanke"
+                     ]
+                  }
+               },
+               {
+                  "date":"2025-02-25",
+                  "home_team":"Crystal Palace",
+                  "away_team":"Aston Villa",
+                  "score":"4-1",
+                  "goal_scorers":{
+                     "Crystal Palace":[
+                        "Odsonne Édouard",
+                        "Jean-Philippe Mateta (2)",
+                        "Eberechi Eze"
+                     ],
+                     "Aston Villa":[
+                        "Ollie Watkins"
+                     ]
+                  }
+               },
+               {
+                  "date":"2025-02-25",
+                  "home_team":"Wolverhampton Wanderers",
+                  "away_team":"Fulham",
+                  "score":"1-2",
+                  "goal_scorers":{
+                     "Wolverhampton Wanderers":[
+                        "Matheus Cunha"
+                     ],
+                     "Fulham":[
+                        "Aleksandar Mitrović",
+                        "Andreas Pereira"
+                     ]
+                  }
+               },
+               {
+                  "date":"2025-02-25",
+                  "home_team":"Chelsea",
+                  "away_team":"Southampton",
+                  "score":"4-0",
+                  "goal_scorers":{
+                     "Chelsea":[
+                        "Raheem Sterling (2)",
+                        "Christopher Nkunku",
+                        "Enzo Fernández"
+                     ]
+                  }
+               },
+               {
+                  "date":"2025-02-26",
+                  "home_team":"Brentford",
+                  "away_team":"Everton",
+                  "score":"1-1",
+                  "goal_scorers":{
+                     "Brentford":[
+                        "Ivan Toney"
+                     ],
+                     "Everton":[
+                        "Dominic Calvert-Lewin"
+                     ]
+                  }
+               },
+               {
+                  "date":"2025-02-26",
+                  "home_team":"Nottingham Forest",
+                  "away_team":"Arsenal",
+                  "score":"0-0",
+                  "goal_scorers":{
+                     
+                  }
+               },
+               {
+                  "date":"2025-02-26",
+                  "home_team":"Tottenham Hotspur",
+                  "away_team":"Manchester City",
+                  "score":"0-1",
+                  "goal_scorers":{
+                     "Manchester City":[
+                        "Erling Haaland"
+                     ]
+                  }
+               },
+               {
+                  "date":"2025-02-26",
+                  "home_team":"Manchester United",
+                  "away_team":"Ipswich Town",
+                  "score":"3-2",
+                  "goal_scorers":{
+                     "Manchester United":[
+                        "Marcus Rashford",
+                        "Bruno Fernandes",
+                        "Mason Mount"
+                     ],
+                     "Ipswich Town":[
+                        "Conor Chaplin",
+                        "Nathan Broadhead"
+                     ]
+                  }
+               },
+               {
+                  "date":"2025-02-26",
+                  "home_team":"Liverpool",
+                  "away_team":"Newcastle United",
+                  "score":"2-0",
+                  "goal_scorers":{
+                     "Liverpool":[
+                        "Mohamed Salah",
+                        "Diogo Jota"
+                     ]
+                  }
+               },
+               {
+                  "date":"2025-02-27",
+                  "home_team":"West Ham United",
+                  "away_team":"Leicester City",
+                  "score":"2-0",
+                  "goal_scorers":{
+                     "West Ham United":[
+                        "Jarrod Bowen",
+                        "Lucas Paquetá"
+                     ]
+                  }
+               }
+            ]"Matchday 28":{
+               "fixtures":[
+                  {
+                     "date":"2025-03-08",
+                     "time":"12:30 GMT",
+                     "home_team":"Nottingham Forest",
+                     "away_team":"Manchester City"
+                  },
+                  {
+                     "date":"2025-03-08",
+                     "time":"15:00 GMT",
+                     "home_team":"Brighton & Hove Albion",
+                     "away_team":"Fulham"
+                  },
+                  {
+                     "date":"2025-03-08",
+                     "time":"15:00 GMT",
+                     "home_team":"Crystal Palace",
+                     "away_team":"Ipswich Town"
+                  },
+                  {
+                     "date":"2025-03-08",
+                     "time":"15:00 GMT",
+                     "home_team":"Liverpool",
+                     "away_team":"Southampton"
+                  },
+                  {
+                     "date":"2025-03-08",
+                     "time":"17:30 GMT",
+                     "home_team":"Brentford",
+                     "away_team":"Aston Villa"
+                  },
+                  {
+                     "date":"2025-03-08",
+                     "time":"20:00 GMT",
+                     "home_team":"Wolverhampton Wanderers",
+                     "away_team":"Everton"
+                  },
+                  {
+                     "date":"2025-03-09",
+                     "time":"14:00 GMT",
+                     "home_team":"Chelsea",
+                     "away_team":"Leicester City"
+                  },
+                  {
+                     "date":"2025-03-09",
+                     "time":"14:00 GMT",
+                     "home_team":"Tottenham Hotspur",
+                     "away_team":"AFC Bournemouth"
+                  },
+                  {
+                     "date":"2025-03-09",
+                     "time":"16:30 GMT",
+                     "home_team":"Manchester United",
+                     "away_team":"Arsenal"
+                  },
+                  {
+                     "date":"2025-03-10",
+                     "time":"20:00 GMT",
+                     "home_team":"West Ham United",
+                     "away_team":"Newcastle United"
+                  }
+               ]
+            }
+         }
+      }
+   }
+}

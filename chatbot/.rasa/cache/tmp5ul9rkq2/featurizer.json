@@ -1,0 +1,70 @@
+{
+  "type": "MaxHistoryTrackerFeaturizer",
+  "state_featurizer": {
+    "action_texts": [],
+    "entity_tag_specs": [],
+    "feature_states": {
+      "intent": {
+        "ask_fixture": 0,
+        "ask_goal_scorers": 1,
+        "ask_score": 2,
+        "ask_stadium": 3,
+        "ask_standings": 4,
+        "ask_top_scorers": 5,
+        "back": 6,
+        "bot_challenge": 7,
+        "goodbye": 8,
+        "greet": 9,
+        "nlu_fallback": 10,
+        "out_of_scope": 11,
+        "restart": 12,
+        "session_start": 13,
+        "set_sport": 14
+      },
+      "action_name": {
+        "action_listen": 0,
+        "action_restart": 1,
+        "action_session_start": 2,
+        "action_default_fallback": 3,
+        "action_deactivate_loop": 4,
+        "action_revert_fallback_events": 5,
+        "action_default_ask_affirmation": 6,
+        "action_default_ask_rephrase": 7,
+        "action_two_stage_fallback": 8,
+        "action_unlikely_intent": 9,
+        "action_back": 10,
+        "...": 11,
+        "action_extract_slots": 12,
+        "action_get_standings": 13,
+        "action_get_fixture": 14,
+        "action_get_score": 15,
+        "action_get_goal_scorers": 16,
+        "action_get_top_scorers": 17,
+        "action_get_stadium": 18,
+        "action_set_sport": 19,
+        "utter_goodbye": 20,
+        "utter_greet": 21,
+        "utter_iamabot": 22
+      },
+      "entities": {
+        "league": 0,
+        "matchday": 1,
+        "player": 2,
+        "sport": 3,
+        "stadium": 4,
+        "team": 5
+      },
+      "slots": {
+        "sport_0": 0,
+        "league_0": 1,
+        "matchday_0": 2,
+        "team_0": 3,
+        "stadium_0": 4,
+        "player_0": 5
+      },
+      "active_loop": {}
+    }
+  },
+  "remove_duplicates": true,
+  "max_history": 5
+}

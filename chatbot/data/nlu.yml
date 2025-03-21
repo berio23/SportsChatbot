@@ -1,0 +1,78 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hi
+    - hello
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+
+- intent: set_sport
+  examples: |
+    - I want information about [football](sport)
+    - Tell me about [basketball](sport)
+    - Switch to [football](sport)
+    - Let's talk about [basketball](sport)
+    - Show me [football](sport) stats
+    - I'd like to know about [basketball](sport)
+
+# The 10 specific questions across both sports:
+- intent: ask_standings
+  examples: |
+    - Show [LaLiga](league) standings
+    - [PremierLeague](league) table
+    - [NBA](league) standings
+    - [EuroLeague](league) table
+    - Who is at the top of [LaLiga](league)?
+    - Current [NBA](league) rankings
+
+- intent: ask_fixture
+  examples: |
+    - What are the matches on [Matchday 27](matchday)?
+    - When is [Real Madrid](team) playing next?
+    - When is [Boston Celtics](team) playing next?
+    - What games are on [Week 21](matchday)?
+    - Show upcoming [LaLiga](league) matches
+    - Next [NBA](league) games 
+    - What are the next fixtures?
+    - Next matches
+
+- intent: ask_score
+  examples: |
+    - What was the score between [Real Madrid](team) and [Real Betis](team)?
+    - Did [Barcelona](team) win their last match?
+    - What was the score of the [Lakers](team) game?
+    - Did [Boston Celtics](team) beat [Phoenix Suns](team)?
+    - Score [Liverpool](team) vs [Arsenal](team)
+    - Result of [Chelsea](team) game
+
+- intent: ask_goal_scorers
+  examples: |
+    - Who scored for [Liverpool FC](team)?
+    - Did [Robert Lewandowski](player) score for [Barcelona](team)?
+    - Goal scorers in [Manchester City](team) match
+    - Who scored in the [Real Madrid](team) game?
+
+- intent: ask_top_scorers
+  examples: |
+    - Who were the top scorers for [Lakers](team)?
+    - How many points did [LeBron James](player) score?
+    - Top scorer of [Warriors](team) game
+    - Who scored the most points for [Boston Celtics](team)?
+
+- intent: ask_stadium
+  examples: |
+    - Where is [Real Madrid](team) playing their home games?
+    - Which stadium will host [Matchday 28](matchday) matches?
+    - Where do the [Boston Celtics](team) play?
+    - Which arena hosts [Week 21](matchday) games?
+    - Home ground of [Barcelona](team)
+    - Where does [Liverpool](team) play?

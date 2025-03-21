@@ -1,0 +1,21 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJydjkEKgDAMBL+SB/QF/UoppcgiQa2SRC+lf7egHkXwtgPDsKE2R3UTHCkPxmvxVK+RSl7g6YaZ1VC6uyukO1w6mqdRAGsfjd0Mki71X+HlRQ+wMdRTMOQlOnqqWaekwypoLZ6/rVZ4": "action_get_score",
+    "eJydzkEKhDAMheGr5ACeoFcRKUUeEmaskjzdFO9uQWcpju7y4OcjbdkaKbNhjamnTjlIOY6Y04gg5/iqE7m2i8Nqo7lOBhkM4HZjLCQsHuk74eKLCigVHqQl0tg18lOTf6L3k+FPeQDP/hne7ZQ6eYU=": "action_listen",
+    "eJwty9EJwCAMRdFVMoATuIpICBJKqMZi0v6Iu1do/96F89JcAeY1+EEqLl0jzG+gUuMIf1QxZ932Nh7bsLq4sEVIztRyANENfB/sxKNTRSt98LC18gueVyZ5": "action_get_goal_scorers",
+    "eJydjUEKgDAMBL+SB/iCfqVIKWWRYJtKE70U/25BL97E2y7MML6fE/Wt4QgxGVdx1O8RJBY4ek5mNchgd0UbDMTYGOrIG2KZJ2IZgA1B17DUmIOm2tD0/BZYYG/tV2q+AEBPT1Q=": "action_listen",
+    "eJydjkEKwzAMBL+iB/gF/koIRjSLEU3VYMm5GP89BrfHUshtB4Zhl9YDtaPgTPxweWukNkdSfiHSB3Yxhw63GspwRAd6pFwA738a1R0lTfVe4ceLERAXWKRlB+eKNdC3y/ZM5qybaLbe1wvPyVjz": "action_get_standings",
+    "eJydjlEKAjEMRK+SA+wJepVlKUGHElyjNFN/yt7dwir4I8r+ZeDNm8x9m6TfKx5ZT7SbJ+n7kV2vSPIKqwXhg22BOhjzEZmkVIDbD0cjUfOOHjN8+WIIjIZIMq/Q0rBM8vZqXHJQ/Wxe4k9/AT86R2aWJ4SfgCo=": "action_listen",
+    "eJydjlEKgzAQRK+yB8gJchWRsNipLtVYNpvSEnL3BtRPEfybgceb6Up1VN6KT+DBZI2eyhZC5AWe9jJLMsTG5gRtjMRWzdOogNULRzaDhg29Zzh50QRiguSpm8FjhqOFbZge/OsdHQucXuEpX8uKWvs/nI9bxg==": "action_get_fixture",
+    "eJyljlEKwjAQRK+yB8gJcpVSwlLHuNhGSSaihN7dQNU/UfRvB2be26GtTto54xJ0op2Sl7YdIekCL48wWyFS79aC3DuWeqSXmAGuHxiVRA5b9TfCmy86wGgoXoYZGiucLMrpsNPb6ORp0HIMe7uyZnzpieBr8Y9svAOFGIUM": "action_listen",
+    "eJy1j1sKAjEMRbeSBXQF3cowlFCvNTjtSJuKUmbvVkb9EHwg+JcLJ+cmQ1sMtUPG0bFXmZOltg4ucYSlW5ikKFJna0HujKQe1VLIgC4fHFUV2a3ob4YXV3SBqKBYGiZwqDAUWf1uw+fR0L2By95t5aQ148ueAH1s/L3szVMKjk/u4uerebwATKOm7Q==": "action_get_score",
+    "eJy1j1sKAjEMRbeSBXQF3cowlFCvtTjtSJuKUmbvFjr6IfgYwb9cODk3GeqiqJ4Szoat+Dlqqn0wkQM0rWHyWRAbWzJSY3xsUTS5BMjywVFEkExHfzO8uKIJvHhkTcMEdgWKAos97Pg6Kro3cD6avb9ISfiyx0EeG38ve/OUgMOTO9t50xud3yYfb11kyfo=": "action_listen",
+    "eJy1j10KwjAQhK+yB+gJcpVSwhLHGEwTSTailNzdQNQHwZ8KfduB2W9mxqUOtJwSzpqNuBgULf3QgWcougvvsiA0b8lIzeNCk6LIJkDqF0YRQdLd+h/hTYsGcOKQFY0ebAsGmlnMYcfXaaBHAuej3ruLlIQfcyzk+bF52IdRAp5f2NnEVTO6fwP4uto2su/4lGudbt+g7sI=": "action_get_goal_scorers",
+    "eJy1j2sKwjAQhK+yB+gJcpVSwlLHGMxDko0opXc3EBUUfLTQfzsw881sP80dTaeEs+ZRbAyKpnbowB6K7sLZLAjVWzJS9dhQpSgyCZD5B6OIIOlmXUf4sKICrFhkRb0Dm4KOPMt42PF16OjRwPmo9/YiJeHPHgN5JjYv+/KUgP0bO49x0RvNvwF82WwT2TV8ygvWv8RWVQ03PQcXrA==": "action_listen",
+    "eJy1kmEKwjAMha+SA+wEvcoYJWzPGtw6aVNRxu5uoSo40Dlh/xJ4+d5LSD3NFU3ngIvlVmX0hqZSWM8DDD2aXqLCZ22KCFkjPrdqyAVA5xVGUkWwRfof4UOKDBAVREN1D3YJFQ2s7bHjW1PR04HjyR7kqingRx8HfU3sbvZlKQUPC3Zsx01rFP0O8G2x3ch9wYe4If3b2H5Wq3+1vJOy78S7zG/u8RQ8CA==": "action_get_standings",
+    "eJy1kn0KwyAMxa+SA/QEXqUUCW3mwqodGsdG6d0nuA9W2DoL/mfgvd/LC7bz0sB89nTR2AtPTsGcH9qhJQWPYeQg5JI2BvJJwy6NosB4Ilk2GFGEvM7SfYQvWyQAC1NQ0I6EJlIDFqU/DnjrGngmYDjpA18levozx5C8HNXDfpQSQrtih34qqpH1FeBla5sJx4z3oWD7D1u9qM1/tb6ToBvYmZIqb8+emO4OArhjPw==": "action_listen"
+  }
+}

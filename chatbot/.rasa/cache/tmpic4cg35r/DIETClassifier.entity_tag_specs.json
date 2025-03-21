@@ -1,0 +1,52 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-league",
+      "2": "I-league",
+      "3": "L-league",
+      "4": "U-league",
+      "5": "B-matchday",
+      "6": "I-matchday",
+      "7": "L-matchday",
+      "8": "U-matchday",
+      "9": "B-player",
+      "10": "I-player",
+      "11": "L-player",
+      "12": "U-player",
+      "13": "B-sport",
+      "14": "I-sport",
+      "15": "L-sport",
+      "16": "U-sport",
+      "17": "B-team",
+      "18": "I-team",
+      "19": "L-team",
+      "20": "U-team",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-league": 1,
+      "I-league": 2,
+      "L-league": 3,
+      "U-league": 4,
+      "B-matchday": 5,
+      "I-matchday": 6,
+      "L-matchday": 7,
+      "U-matchday": 8,
+      "B-player": 9,
+      "I-player": 10,
+      "L-player": 11,
+      "U-player": 12,
+      "B-sport": 13,
+      "I-sport": 14,
+      "L-sport": 15,
+      "U-sport": 16,
+      "B-team": 17,
+      "I-team": 18,
+      "L-team": 19,
+      "U-team": 20,
+      "O": 0
+    },
+    "num_tags": 21
+  }
+]
