@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sports Information Chatbot</title>
+    <!-- Include jQuery for simplicity -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        #chat-window {
+            border: 1px solid #ccc;
+            width: 80%;
+            height: 400px;
+            overflow-y: scroll;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        .message {
+            margin-bottom: 10px;
+        }
+        .user {
+            font-weight: bold;
+            color: #007BFF;
+        }
+        .bot {
+            font-weight: bold;
+            color: #28A745;
+        }
+    </style>
+</head>
+<body>
+    <h2>Chat with the Sports Info Bot</h2>
+    <div id="chat-window"></div>
+    <input type="text" id="user_message" placeholder="Type your message here" style="width:70%;">
+    <button id="send-btn">Send</button>
+
+    <script>
+        // When the send button is clicked
+        $("#send-btn").click(function(){
+            var message = $("#user_message").val();
+            if (message.trim() === "") return;  // prevent empty messages
+
+            // Append the user's message to the chat window
+            $("#chat-window").append("<div class='message'><span class='user'>You: </span>" + message + "</div>");
+
+            // Clear the input box
+            $("#user_message").val("");
+
+            // Send the user message to our Flask backend
+            $.post("/send_message", { message: message }, function(data){
+                data.forEach(function(resp) {
+                    $("#chat-window").append("<div class='message'><span class='bot'>Bot: </span>" + resp.text + "</div>");
+                });
+                // Scroll to the bottom of the chat window to show the new messages
+                $("#chat-window").scrollTop($("#chat-window")[0].scrollHeight);
+            });
+        });
+
+        // Allow pressing the Enter key to send a message
+        $("#user_message").keypress(function(e) {
+            if (e.which === 13) {
+                $("#send-btn").click();
+            }
+        });
+    </script>
+</body>
+</html>
