@@ -1,0 +1,12 @@
+{
+  "0": "ask_fixture",
+  "1": "ask_goal_scorers",
+  "2": "ask_score",
+  "3": "ask_stadium",
+  "4": "ask_standings",
+  "5": "ask_top_scorers",
+  "6": "bot_challenge",
+  "7": "goodbye",
+  "8": "greet",
+  "9": "set_sport"
+}

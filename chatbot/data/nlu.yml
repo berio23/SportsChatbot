@@ -1,6 +1,12 @@
 version: "3.1"
 
 nlu:
+- synonym: PremierLeague
+  examples: |
+    - Premier League
+    - premier league
+    - The Premier League
+
 - intent: greet
   examples: |
     - hi
@@ -24,11 +30,11 @@ nlu:
     - Show me [football](sport) stats
     - I'd like to know about [basketball](sport)
 
-# The 10 specific questions across both sports:
 - intent: ask_standings
   examples: |
     - Show [LaLiga](league) standings
     - [PremierLeague](league) table
+    - Show me the standings for [Premier League](league)
     - [NBA](league) standings
     - [EuroLeague](league) table
     - Who is at the top of [LaLiga](league)?

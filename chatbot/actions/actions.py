@@ -304,7 +304,7 @@ class ActionGetStandings(Action):
             if "laliga" in message or "la liga" in message:
                 league = "LaLiga"
                 sport = "Football"
-            elif "premier" in message or "premierleague" in message:
+            elif any(term in message for term in ["premier", "premierleague", "premier league", "Premier League"]):
                 league = "PremierLeague"
                 sport = "Football"
             elif "nba" in message:
